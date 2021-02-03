@@ -4,7 +4,7 @@
             "id": 1,
             "url": "https://picsum.photos/id/10",
             "author": "Paul Jarvis",
-            "categorie": "nature",
+            "category": "nature",
             "meta": {
                 "width": 2500,
                 "height": 1667,
@@ -15,7 +15,7 @@
             "id": 2,
             "url": "https://picsum.photos/id/118",
             "author": "Wojtek Witkowski",
-            "categorie": "city",
+            "category": "city",
             "meta": {
                 "width": 2896,
                 "height": 1936,
@@ -26,7 +26,7 @@
             "id": 3,
             "url": "https://picsum.photos/id/123",
             "author": "Mark Doda",
-            "categorie": "closeup",
+            "category": "closeup",
             "meta": {
                 "width": 4928,
                 "height": 3264,
@@ -37,7 +37,7 @@
             "id": 4,
             "url": "https://picsum.photos/id/142",
             "author": "Vadim Sherbakov",
-            "categorie": "building",
+            "category": "building",
             "meta": {
                 "width": 4272,
                 "height": 2848,
@@ -48,7 +48,7 @@
             "id": 5,
             "url": "https://picsum.photos/id/152",
             "author": "Steven Spassov",
-            "categorie": "closeup",
+            "category": "closeup",
             "meta": {
                 "width": 3888,
                 "height": 2592,
@@ -59,7 +59,7 @@
             "id": 6,
             "url": "https://picsum.photos/id/153",
             "author": "Charlie Foster",
-            "categorie": "closeup",
+            "category": "closeup",
             "meta": {
                 "width": 4763,
                 "height": 3155,
@@ -70,7 +70,7 @@
             "id": 7,
             "url": "https://picsum.photos/id/122",
             "author": "Vadim Sherbakov",
-            "categorie": "night",
+            "category": "night",
             "meta": {
                 "width": 4147,
                 "height": 2756,
@@ -81,7 +81,7 @@
             "id": 8,
             "url": "https://picsum.photos/id/193",
             "author": "Vadim Sherbakov",
-            "categorie": "building",
+            "category": "building",
             "meta": {
                 "width": 3578,
                 "height": 2451,
@@ -92,7 +92,7 @@
             "id": 9,
             "url": "https://picsum.photos/id/10",
             "author": "Paul Jarvis",
-            "categorie": "nature",
+            "category": "nature",
             "meta": {
                 "width": 400,
                 "height": 255,
@@ -103,7 +103,7 @@
             "id": 10,
             "url": "https://picsum.photos/id/125",
             "author": "Rick Waalders",
-            "categorie": "nature",
+            "category": "nature",
             "meta": {
                 "width": 1500,
                 "height": 1000,
@@ -114,7 +114,7 @@
             "id": 11,
             "url": "https://picsum.photos/id/18",
             "author": "Paul Jarvis",
-            "categorie": "closeup",
+            "category": "closeup",
             "meta": {
                 "width": 2500,
                 "height": 1667,
@@ -125,7 +125,7 @@
             "id": 12,
             "url": "https://picsum.photos/id/181",
             "author": "Nick Turner",
-            "categorie": "closeup",
+            "category": "closeup",
             "meta": {
                 "width": 1920,
                 "height": 1189,
