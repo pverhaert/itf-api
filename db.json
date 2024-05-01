@@ -135,13 +135,13 @@
   ],
   "campuses": [
     {
-      "name": "Campus De Ham",
-      "image": "deham.png",
+      "id": 1,
+      "name": "de ham",
+      "image": "de_ham.jpg",
       "address": {
         "street": "Raghenoplein 21bis",
         "city": "Mechelen",
         "zipcode": "2800",
-        "region": "Mechelen",
         "geo": {
           "lat": 51.022635,
           "lng": 4.48712
@@ -149,12 +149,13 @@
       }
     },
     {
-      "name": "Campus De Nayer",
+      "id": 2,
+      "name": "de nayer",
+      "image": "de_nayer.jpg",
       "address": {
         "street": "Jan De Nayerlaan 5",
         "city": "Sint-Katelijne-Waver",
         "zipcode": "2860",
-        "region": "Mechelen",
         "geo": {
           "lat": 51.069491,
           "lng": 4.500975
@@ -162,12 +163,13 @@
       }
     },
     {
-      "name": "Campus De Vest",
+      "id": 3,
+      "name": "de vest",
+      "image": "de_vest.jpg",
       "address": {
         "street": "Zandpoortvest 60",
         "city": "Mechelen",
         "zipcode": "2800",
-        "region": "Mechelen",
         "geo": {
           "lat": 51.023723,
           "lng": 4.48794
@@ -175,12 +177,13 @@
       }
     },
     {
-      "name": "Campus Geel",
+      "id": 4,
+      "name": "geel",
+      "image": "geel.jpg",
       "address": {
         "street": "Kleinhoefstraat 4",
         "city": "Geel",
         "zipcode": "2440",
-        "region": "Kempen",
         "geo": {
           "lat": 51.161358,
           "lng": 4.963583
@@ -188,12 +191,13 @@
       }
     },
     {
-      "name": "Campus Kruidtuin",
+      "id": 5,
+      "name": "kruidtuin",
+      "image": "kruidtuin.jpg",
       "address": {
         "street": "Lange Ridderstraat 44",
         "city": "Mechelen",
         "zipcode": "2800",
-        "region": "Mechelen",
         "geo": {
           "lat": 51.024779,
           "lng": 4.484782
@@ -201,12 +205,13 @@
       }
     },
     {
-      "name": "Campus Lier",
+      "id": 6,
+      "name": "lier",
+      "image": "lier.jpg",
       "address": {
         "street": "Antwerpsestraat 99",
         "city": "Lier",
         "zipcode": "2500",
-        "region": "Kempen",
         "geo": {
           "lat": 51.134006,
           "lng": 4.566427
@@ -214,7 +219,9 @@
       }
     },
     {
-      "name": "Campus Lucas Faydherbe",
+      "id": 7,
+      "name": "lucas faydherbe",
+      "image": "lucas_faydherbe.jpg",
       "address": {
         "street": "Zandpoortvest 16",
         "city": "Mechelen",
@@ -226,12 +233,13 @@
       }
     },
     {
-      "name": "Campus National",
+      "id": 8,
+      "name": "national",
+      "image": "national.jpg",
       "address": {
         "street": "Kronenburgstraat 62-68",
         "city": "Antwerpen",
         "zipcode": "2000",
-        "region": "Antwerpen",
         "geo": {
           "lat": 51.211847,
           "lng": 4.3980067
@@ -239,12 +247,13 @@
       }
     },
     {
-      "name": "Campus Sanderus",
+      "id": 9,
+      "name": "sanderus",
+      "image": "sanderus.jpg",
       "address": {
         "street": "Molenstraat 8",
         "city": "Antwerpen",
         "zipcode": "2018",
-        "region": "Antwerpen",
         "geo": {
           "lat": 51.2075754,
           "lng": 4.4052135
@@ -252,12 +261,13 @@
       }
     },
     {
-      "name": "Campus Sint-Andries",
+      "id": 10,
+      "name": "sint andries",
+      "image": "sint_andries.jpg",
       "address": {
         "street": "Sint-Andriesstraat 2",
         "city": "Antwerpen",
         "zipcode": "2000",
-        "region": "Antwerpen",
         "geo": {
           "lat": 51.2162873,
           "lng": 4.3973036
@@ -265,30 +275,30 @@
       }
     },
     {
-      "name": "Campus Turnhout",
+      "id": 11,
+      "name": "turnhout",
+      "image": "turnhout.jpg",
       "address": {
         "street": "Campus Blairon 800",
         "city": "Turnhout",
         "zipcode": "2300",
-        "region": "Kempen",
         "geo": {
           "lat": 51.317004,
-          "lng": 4.928719,
-          "zoom": 15
+          "lng": 4.928719
         }
       }
     },
     {
-      "name": "Campus Vorselaar",
+      "id": 12,
+      "name": "vorselaar",
+      "image": "vorselaar.jpg",
       "address": {
         "street": "Lepelstraat 2",
         "city": "Vorselaar",
         "zipcode": "2290",
-        "region": "Kempen",
         "geo": {
           "lat": 51.200987,
-          "lng": 4.77261,
-          "zoom": 15
+          "lng": 4.77261
         }
       }
     }
