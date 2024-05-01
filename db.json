@@ -136,7 +136,7 @@
   "campuses": [
     {
       "id": 1,
-      "name": "de ham",
+      "name": "De Ham",
       "image": "de_ham.jpg",
       "address": {
         "street": "Raghenoplein 21bis",
@@ -150,7 +150,7 @@
     },
     {
       "id": 2,
-      "name": "de nayer",
+      "name": "De Nayer",
       "image": "de_nayer.jpg",
       "address": {
         "street": "Jan De Nayerlaan 5",
@@ -164,7 +164,7 @@
     },
     {
       "id": 3,
-      "name": "de vest",
+      "name": "De Vest",
       "image": "de_vest.jpg",
       "address": {
         "street": "Zandpoortvest 60",
@@ -178,7 +178,7 @@
     },
     {
       "id": 4,
-      "name": "geel",
+      "name": "Geel",
       "image": "geel.jpg",
       "address": {
         "street": "Kleinhoefstraat 4",
@@ -192,7 +192,7 @@
     },
     {
       "id": 5,
-      "name": "kruidtuin",
+      "name": "Kruidtuin",
       "image": "kruidtuin.jpg",
       "address": {
         "street": "Lange Ridderstraat 44",
@@ -206,7 +206,7 @@
     },
     {
       "id": 6,
-      "name": "lier",
+      "name": "Lier",
       "image": "lier.jpg",
       "address": {
         "street": "Antwerpsestraat 99",
@@ -220,7 +220,7 @@
     },
     {
       "id": 7,
-      "name": "lucas faydherbe",
+      "name": "Lucas Faydherbe",
       "image": "lucas_faydherbe.jpg",
       "address": {
         "street": "Zandpoortvest 16",
@@ -234,7 +234,7 @@
     },
     {
       "id": 8,
-      "name": "national",
+      "name": "National",
       "image": "national.jpg",
       "address": {
         "street": "Kronenburgstraat 62-68",
@@ -248,7 +248,7 @@
     },
     {
       "id": 9,
-      "name": "sanderus",
+      "name": "Sanderus",
       "image": "sanderus.jpg",
       "address": {
         "street": "Molenstraat 8",
@@ -262,7 +262,7 @@
     },
     {
       "id": 10,
-      "name": "sint andries",
+      "name": "Sint Andries",
       "image": "sint_andries.jpg",
       "address": {
         "street": "Sint-Andriesstraat 2",
@@ -276,7 +276,7 @@
     },
     {
       "id": 11,
-      "name": "turnhout",
+      "name": "Turnhout",
       "image": "turnhout.jpg",
       "address": {
         "street": "Campus Blairon 800",
@@ -290,7 +290,7 @@
     },
     {
       "id": 12,
-      "name": "vorselaar",
+      "name": "Vorselaar",
       "image": "vorselaar.jpg",
       "address": {
         "street": "Lepelstraat 2",
